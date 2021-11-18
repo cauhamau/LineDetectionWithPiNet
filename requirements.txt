@@ -1,0 +1,12 @@
+click==7.1.2
+eventlet==0.29.0
+Flask==1.1.2
+numpy==1.19.2
+opencv-python
+protobuf==3.17.3
+python-engineio==3.13.2
+python-socketio==4.6.0
+torch==1.6.0
+torchfile==0.1.0
+torchvision==0.7.0
+websocket-client==0.58.0
